@@ -1,0 +1,24 @@
+{
+  "url": {
+    "name": "managelayers",
+    "separator": "*"
+  },
+  "constructor": "M.plugin.ManageLayers",
+  "files": {
+    "ol": {
+      "scripts": "managelayers.ol.min.js",
+      "styles": "managelayers.min.css"
+    }
+  },
+  "metadata": {
+    "name": "managelayers",
+    "description": "Gestión de capas",
+    "text": "Plugin de Mapea para la gestión de capas de forma avanzada, permitiendo su ordenación, eliminación, trasparencia, etc. También incluye una sección de mapas de fondo y otra de capas favoritas.",
+    "version": "1.0.0",
+    "date": "",
+    "author": "",
+    "org": "",
+    "tags": "mapea,plugin",
+    "icon": "./facade/assets/icons/icons.svg"
+  }
+}
