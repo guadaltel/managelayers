@@ -15,9 +15,9 @@
     "description": "Gestión de capas",
     "text": "Plugin de Mapea para la gestión de capas de forma avanzada, permitiendo su ordenación, eliminación, trasparencia, etc. También incluye una sección de mapas de fondo y otra de capas favoritas.",
     "version": "1.0.0",
-    "date": "",
+    "date": "Jun 26, 2019",
     "author": "",
-    "org": "",
+    "org": "Instituto de Estadística y Cartografía",
     "tags": "mapea,plugin",
     "icon": "./facade/assets/icons/icons.svg"
   }
